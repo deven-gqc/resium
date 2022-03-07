@@ -1475,10 +1475,10 @@ caniuse-lite@^1.0.30001265:
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001269.tgz#3a71bee03df627364418f9fd31adfc7aa1cc2d56"
   integrity sha512-UOy8okEVs48MyHYgV+RdW1Oiudl1H6KolybD6ZquD0VcrPSgj25omXO1S7rDydjpqaISCwA8Pyx+jUQKZwWO5w==
 
-cesium@1.86.1:
-  version "1.86.1"
-  resolved "https://registry.yarnpkg.com/cesium/-/cesium-1.86.1.tgz#c98c5453c133ed3d62c95de798c02d1d4d7f5b2e"
-  integrity sha512-LLgkPVVTTcmN2h781C4PAZRD11/4mmSWUDF7A/MPnwsnhOQhBE40FVNHzEUEnv+lCL1U+Yqdc3IloVB8EkIJhA==
+cesium@1.91.0:
+  version "1.91.0"
+  resolved "https://registry.yarnpkg.com/cesium/-/cesium-1.91.0.tgz#3b901913b5dca286406227d588617697ee3b6afc"
+  integrity sha512-HCwwYq7+qqB8c9ydz51luX1KP/apMiMVA8UAu8C7V2SOANUjOZQSi3CcXAtXXn1oUZQDrJlBs6sBT9nt0zRRLg==
 
 chalk@^2.0.0:
   version "2.4.2"
